@@ -1,4 +1,5 @@
 #!/bin/bash
+echo "hola mundo"
 ls -l *.sh
 mv *.sh tmp
 chmod +x tmp/*.sh
